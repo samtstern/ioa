@@ -11,6 +11,6 @@
         "FirebaseExtended/reactfire"
     ],
     "tabs": [
-      "ioa.chat"
+       { "title": "Demo", "href": "https://ioa.chat" }
     ]
 }
